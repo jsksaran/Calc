@@ -82,11 +82,11 @@ Publish the website in the given URL.
         <div class="m-3 col-2 btn btn-primary rounded-4" onclick="fn(this)">/</div>
         <div class="m-3 col-11 btn btn-warning rounded-4" onclick="fn(this)">=</div>
     </div>
-</body>'''
+</body>
 
-</html>
+</html>'''
 ## OUTPUT:
-![1](https://github.com/jsksaran/Calc/assets/64321195/deb6621c-80d9-4d9f-afd1-45e24ae97627)
+![1](https://github.com/jsksaran/Calc/assets/64321195/573215ee-4578-4f29-a4c6-6a4b5ed74513)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
