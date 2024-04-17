@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -82,7 +82,7 @@ Publish the website in the given URL.
         <div class="m-3 col-2 btn btn-primary rounded-4" onclick="fn(this)">/</div>
         <div class="m-3 col-11 btn btn-warning rounded-4" onclick="fn(this)">=</div>
     </div>
-</body>
+</body>'''
 
 </html>
 ## OUTPUT:
