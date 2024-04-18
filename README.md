@@ -1,6 +1,6 @@
 # Ex.08 Design of a Standard Calculator
 ## Date:
-17.04.24
+18.04.24
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
 
@@ -25,7 +25,8 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -84,9 +85,13 @@ Publish the website in the given URL.
     </div>
 </body>
 
-</html>'''
+</html>
+```
 ## OUTPUT:
-![1](https://github.com/jsksaran/Calc/assets/64321195/573215ee-4578-4f29-a4c6-6a4b5ed74513)
+```
+![1](https://github.com/jsksaran/Calc/assets/64321195/241fd5c5-8a56-46c5-8d4d-b525ad74a9df)
+
+```
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
