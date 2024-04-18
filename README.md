@@ -88,9 +88,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-```
+
 ![1](https://github.com/jsksaran/Calc/assets/64321195/241fd5c5-8a56-46c5-8d4d-b525ad74a9df)
-```
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
